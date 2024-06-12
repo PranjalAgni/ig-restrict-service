@@ -1,5 +1,5 @@
 # ig-restrict-service
-Automated way to restrict people on IG 🔒
+Automated way to hide/unhide people from viewing your (booz 🍻) stories on IG :p 🔒
 
 ## Things used
 
